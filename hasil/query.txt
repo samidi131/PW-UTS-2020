@@ -1,0 +1,1 @@
+SELECT * FROM pribadi LEFT join pendidikan on id_pribadi pendidikan=id_pendidikan
